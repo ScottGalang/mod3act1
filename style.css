@@ -1,0 +1,27 @@
+h1  {
+    background-color: rgb(121, 1, 65);
+}  
+
+#textcolor {
+    color: rgb(255, 255, 255);
+}
+
+.Testclass {
+    color: rgb(24, 5, 95);
+}
+
+div.seconddiv p {
+    background-color: rgb(7, 114, 114);
+}
+
+section:hover {
+    background-color: rgb(247, 3, 3);
+}
+
+hgroup:hover {
+    background-color: rgb(253, 4, 4);
+}
+
+body {
+    background-color: rgb(6, 183, 136);
+}
